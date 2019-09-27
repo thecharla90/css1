@@ -2,11 +2,13 @@ body {
 background-image: linear-gradient(to bottom right, #FDF0F6,#F0FAFD );
 font-family: "Times New Roman", Times, serif;
 background-repeat: no-repeat;
+width:auto;
+height:auto;
 }
 
 #container{
    width:1020px;
-    margin: 0 auto;   
+    margin: 0 auto; 
 }
 
 header{
@@ -46,35 +48,41 @@ li a:hover {
 
 #life{
     width:326px;
-    height:1000px;
+    height:700px;
     background-color: #E0F6FF;
     float:left;
-    margin-right:5px;
+        margin-right:4px;
 }
 #young{
    padding-top:5px;
     padding-right:10px;
     padding-left:10px;
 }
-#disneytrips{
+#babyme {
+   float:left;    
+}
+#quinceanera{
     width:326px;
-    height:1000px;
+    height:700px;
     background-color: #6CB2CE;
     float:left;
-    margin-left: 5px;
-    margin-right:5px;
+    margin-left: 8px;
+    margin-right:8px;
 }
-#disneyworld{
+#quince{
    padding-top:5px;
     padding-right:10px;
     padding-left:10px;
 }
+#quinceme {
+   float:left;    
+}
 #collection{
     width:326px;
-    height:1000px;
+    height:700px;
     background-color: #E0F6FF;
     float:left;
-    margin-right:5px;
+    margin-right:8px;
 }
 #dolls{
   padding-top:5px;
@@ -91,5 +99,4 @@ footer{
     color: #365967;
     clear:both;
 }
-
 
