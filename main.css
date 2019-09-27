@@ -9,8 +9,6 @@ background-repeat: no-repeat;
     margin: 0 auto;   
 }
 
-
-
 header{
 	background-color: #E6BBCD;
 	width:1000px;
@@ -46,25 +44,44 @@ li a:hover {
   background-color: #6A4365;
 }
 
-#younger{
-    width:333.3px;
-    height:100px;
+#life{
+    width:326px;
+    height:1000px;
     background-color: #E0F6FF;
     float:left;
+    margin-right:5px;
 }
-#quinceanera{
-    width:333.3px;
-    height:100px;
+#young{
+   padding-top:5px;
+    padding-right:10px;
+    padding-left:10px;
+}
+#disneytrips{
+    width:326px;
+    height:1000px;
     background-color: #6CB2CE;
     float:left;
+    margin-left: 5px;
+    margin-right:5px;
+}
+#disneyworld{
+   padding-top:5px;
+    padding-right:10px;
+    padding-left:10px;
 }
 #collection{
-    width:333.3px;
-    height:100px;
+    width:326px;
+    height:1000px;
     background-color: #E0F6FF;
     float:left;
+    margin-right:5px;
 }
-
+#dolls{
+  padding-top:5px;
+    padding-right:10px;
+    padding-left:10px;
+    
+}
 footer{
 	background-color:#E6BBCD;
 	width:1000px;
@@ -74,3 +91,5 @@ footer{
     color: #365967;
     clear:both;
 }
+
+
